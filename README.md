@@ -1,4 +1,5 @@
 Infraestrutura por trás do FrontEnd da Netflix
+
 Uma breve descrição sobre o que esse projeto faz, mostra com base de estudos o princípio de funcionamento da infraestrutura da maior rede de Stream a NETFLIX.
 Em um bootcamp no qual tive o prazer de participar aprendi como fica fácil montar essa Infraestrutura, diante da grandeza oferecida pela Netflix, onde temos uma aplicação rodando como FrontEnd, como intuito de oferecer aos usuários segurança e diversão, tendo em vista que no FrontEnd temos a parte do usuário acessar o sistema e ser autenticado, e a parte interna, após ser autenticado, onde temos milhões de escolhas de filmes.
 OBJETIVO
